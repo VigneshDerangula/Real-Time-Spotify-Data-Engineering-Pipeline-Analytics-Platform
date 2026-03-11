@@ -602,7 +602,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Vignesh Derangula**
 
-- Portfolio: [vigneshderangula.com](https://vigneshderangula.com)
 - LinkedIn: [linkedin.com/in/vignesh-derangula](https://linkedin.com/in/vignesh-derangula)
 - GitHub: [@vigneshderangula](https://github.com/vigneshderangula)
 - Email: vignesh.derangula@email.com
