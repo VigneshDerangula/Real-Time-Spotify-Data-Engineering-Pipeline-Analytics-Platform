@@ -38,6 +38,8 @@ Data Simulation → Kafka Streaming → MinIO Storage → Snowflake Ingestion �
 
 ## 🏗️ Architecture
 
+<img width="852" height="447" alt="image" src="https://github.com/user-attachments/assets/708e3d16-9e41-4352-ad1f-a9544d6f4f97" />
+
 ```mermaid
 graph LR
     A[Data Simulator<br/>Python + Faker] -->|Streams| B[Apache Kafka<br/>Real-time Events]
@@ -393,7 +395,8 @@ TABLE: GOLD.HOURLY_STREAMING_TRENDS
 
 ### Power BI Visualizations
 
-![Dashboard Screenshot](dashboard.png)
+<img width="1313" height="728" alt="image" src="https://github.com/user-attachments/assets/c5b765be-384e-44a6-9d7f-02d45d5dfcba" />
+
 
 **Key Metrics:**
 - 🎵 **Top Artists & Songs**: Most-streamed content by play count
